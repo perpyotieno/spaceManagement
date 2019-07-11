@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="models.RoomTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2019-07-11T07:10:25" hostname="parrot" time="0.015">
+  <properties/>
+  <testcase name="setOccupied" classname="models.RoomTest" time="0.005"/>
+  <testcase name="roomgetName_returnsString_String" classname="models.RoomTest" time="0.0"/>
+  <testcase name="room_instantiatesCorrectly_true" classname="models.RoomTest" time="0.001"/>
+  <testcase name="isOccupied" classname="models.RoomTest" time="0.001"/>
+  <testcase name="setId" classname="models.RoomTest" time="0.0"/>
+  <testcase name="roomSetName_returnString_String" classname="models.RoomTest" time="0.001"/>
+  <testcase name="setCapacity" classname="models.RoomTest" time="0.0"/>
+  <testcase name="getCapacity" classname="models.RoomTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
